@@ -18,7 +18,7 @@ Ce projet sert d'introduction  pratique à :
 
 - **Java** (JDK 1.0.15)
 - **Maven** (outil de build principal)
-- (Dépendances possibles :  JUnit, Hibernate/JPA, MySQL Connector... — à vérifier dans pom.xml)
+- (Dépendances :  JUnit, Hibernate/JPA, MySQL Connector... — à vérifier dans pom.xml)
 
 ---
 
